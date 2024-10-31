@@ -3,6 +3,3 @@
 rgdgs
 
 dsfss
-
-dsfsds
-edicion rama3
